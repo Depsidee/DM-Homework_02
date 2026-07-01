@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = C:/My/Education/IT/Lectures/5-Fifth Year/Second Semester/Machine Learning/2025-2026/Homework/Homework 02/dvc-storage
